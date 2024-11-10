@@ -1,0 +1,14 @@
+name: constructor
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - lightgbm
+  - pycaret
+  - bs4
+  - jupyter
+  - notebook
+  - cookiecutter
+  - conda-forge::jupyterlab
+  - pip
+prefix: /opt/anaconda3/envs/constructor
