@@ -4,7 +4,24 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Project description
+# Project name
+
+#### -- Project Status: Active
+## Project Intro/Objective
+...... 
+
+### Techniques Used
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+
+### Tools / Frameworks
+* Python
+* Pandas, jupyter
+* scikit-learn
+
+## Project Description
+## Objectives of this project
 
 ## Project Organization
 
